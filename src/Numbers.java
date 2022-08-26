@@ -9,6 +9,7 @@ public class Numbers {
         this.c = c;
     }
 
+
     public int getA() {
         return a;
     }
