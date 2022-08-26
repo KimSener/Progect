@@ -1,7 +1,7 @@
 public class Numbers {
-    private int a;
-    private int b;
-    private int c;
+    private final int a;
+    private final int b;
+    private final int c;
 
     public Numbers(int a, int b, int c) {
         this.a = a;
